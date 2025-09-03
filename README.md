@@ -61,26 +61,31 @@ Neupravujte data v primárních tabulkách! Pokud bude potřeba transformovat ho
 
 ## Řešení
 
-1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
-Za zkoumané období (roky 2006-2018) mzdy narostly ve všech odvětvích, ovšem procento nárůstu mezd se mezi jednotlivými odvětvími diametrálně liší. Zatímco ve zpracovatelském průmyslu narostly mzdy o 132 % (18 078 korun), v sektoru Ubytování, stravování a pohostinství byl nárůst pouze 10 % (1 165 korun). V předposledním roce zkoumaného období přitom mzdy vyskočily o téměř 12 %, v posledním roce však skočily dolů o 27 %, takže ve výsledku byl nárůst vskutku mizivý. Nejvyšší peněžní ohodnocení se dostalo na konci zkoumaného období sektoru Informační a komunikační činnosti. Tento sektor také získal nejvíce přidáno - celkem přes 24 tisíc. Předběhl svou výškou mezd i sektor Peněžnictví a pojišťovnictví, který začínal s nejvyšší průměrnou mzdou.
+#### Otázka 1: Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
+Za zkoumané období (roky 2006–2018) mzdy narostly ve všech odvětvích, ovšem procento nárůstu mezd se mezi jednotlivými odvětvími diametrálně liší. Zatímco ve zpracovatelském průmyslu mzdy vzrostly o 132 % (18 078 korun), v sektoru Ubytování, stravování a pohostinství byl nárůst pouze 10 % (1 165 korun). V předposledním roce zkoumaného období mzdy pro tento sektor vyskočily o téměř 12 %, v posledním roce však klesly o 27 %, takže ve výsledku byl nárůst vskutku mizivý.
 
-2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
-Za první zkoumané období (rok 2006) je možné si koupit za průměrnou mzdu 1 201 kg chleba a 1 341 litrů mléka. Za poslední zkoumané období (rok 2018) je možné si koupit o 4 % více chleba (1 250 kg) a o 14 % více litrů mléka (1 529 litrů).
+Nejvyšší peněžní ohodnocení na konci zkoumaného období připadlo sektoru Informační a komunikační činnosti. Tento sektor také zaznamenal největší absolutní nárůst – přes 24 tisíc korun. Předehnal tak i sektor Peněžnictví a pojišťovnictví, který začínal s nejvyšší průměrnou mzdou.
 
-3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
-Nejlépe je na tom cukr krystal a rajčata, ta nezdražují vůbec. Naopak dokonce za zkoumané období zlevnila, a to o 27 % a 23 %.
+#### Otázka 2: Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
+V roce 2006 bylo možné si koupit za průměrnou mzdu 1 201 kg chleba a 1 341 litrů mléka. V roce 2018 to bylo o 4 % více chleba (1 250 kg) a o 14 % více mléka (1 529 litrů).
 
-4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
-Ano, k této situaci došlo v roce 2013, kdy průměrná cena potravin vzrostla o 5,1 % a průměrná mzda klesla o 6,76 %. K podobné situaci došlo i v roce 2017, kdy ceny potravin v průměru stouply o 9,63 %, ale průměrná mzda klesla o 0,1 %.
+#### Otázka 3: Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
+Nejlépe je na tom cukr krystal a rajčata. Tyto položky nezdražovaly, naopak dokonce za zkoumané období zlevnily, a to o 27 % a 23 %.
 
-5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
-Ano, na datech za zkoumané období pozorujeme vliv HDP na výšku platů i cen potravin.
-Například v roce 2009 se HDP propadlo o 4,66 % a v následujícím roce mzdy klesly o jedno procento. Ceny potravin v roce 2009 výrazně zlevnily, následujícího roku zdražily jen o 1,95 %.
-Podobný trend vidíme i v roce 2013, kdy stagnující HDP srazilo mzdy o 6,76 %. Ceny potravin ve stejném roce vzrostly o 5,1 %, ale v následujícím letech mírně poklesly.
-Příkladem pozitivního vlivu růstu HDP pak jsou roky 2015 až 2018. HDP stouplo v roce 2015 a 2017 vždy o minimálně 5 %. V následujících letech - 2016 a 2018 - pak platy skokově stouply o 7 % a 13 %.
-Nutné je podotknout, že HDP není jediným faktorem ovlivňující výšku mezd či ceny potravin.
+#### Otázka 4: Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
+Ano, k této situaci došlo v roce 2013, kdy průměrná cena potravin vzrostla o 5,1 %, zatímco průměrná mzda klesla o 6,76 %. K podobné situaci došlo i v roce 2017, kdy ceny potravin v průměru stouply o 9,63 %, ale průměrná mzda klesla o 0,1 %.
+
+#### Otázka 5: Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
+Ano, na datech za zkoumané období pozorujeme vliv HDP na vývoj mezd i cen potravin.
+
+Například v roce 2009 se HDP propadlo o 4,66 % a v následujícím roce mzdy klesly o jedno procento. Ceny potravin v roce 2009 výrazně zlevnily, zatímco v roce 2010 vzrostly jen o 1,95 %. Podobný trend vidíme i v roce 2013, kdy stagnující HDP srazilo mzdy o 6,76 %. Ceny potravin ve stejném roce vzrostly o 5,1 %, ale v následujících letech mírně poklesly.
+
+Příkladem pozitivního vlivu růstu HDP pak jsou roky 2015 až 2018. HDP stouplo v roce 2015 a 2017 vždy o minimálně 5 %. V následujících letech – 2016 a 2018 – pak mzdy skokově vzrostly o 7 % a 13 %.
+
+Je však nutné podotknout, že HDP není jediným faktorem ovlivňujícím vývoj mezd či cen potravin.
 
 
 ## Komentář k datovým zdrojům
-Data v tabulkách nejsou úplná - pro některé roky můžou jisté údaje chybět. Pro tento projekt bylo zkoumáno pouze období, kde byla k dispozici úplná ekonomická data.
-Součástí podkladů je také tabulka t_ester_bubikova_project_sql_secondary_final, která obsahuje informace o evropských státech. V analýze nebyla tabulka použita, ale přikládám ji, jelikož byla vyžádána.
+Data v tabulkách nejsou úplná – pro některé roky mohou chybět určité údaje. Pro tento projekt bylo zkoumáno pouze období, kde byla k dispozici úplná ekonomická data.
+
+Součástí podkladů je také tabulka t_ester_bubikova_project_sql_secondary_final, která obsahuje informace o evropských státech. V analýze nebyla použita, ale přikládám ji, jelikož byla vyžádána.
